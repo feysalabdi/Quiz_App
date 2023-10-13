@@ -1,6 +1,12 @@
-# quiz_app
+#Quiz_app
 
-A new Flutter project.
+A quiz app built using Flutter. contains a total of three-screen,
+the welcome screen, and the main screen called the questions screen
+At the end score screen where you can check your score.
+
+##Quiz_App UI
+<img src"https://github.com/feysalabdi/Quiz_App/blob/main/Screenshot/image.jpg" >
+
 
 ## Getting Started
 
