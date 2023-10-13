@@ -3,9 +3,9 @@
 A quiz app built using Flutter. contains a total of three-screen,
 the welcome screen, and the main screen called the questions screen
 At the end score screen where you can check your score.
+## QUIZ APP UI
 
-##Quiz_App UI
-<img src"https://github.com/feysalabdi/Quiz_App/blob/main/Screenshot/image.jpg" >
+<img src="https://github.com/feysalabdi/Quiz_App/blob/main/Screenshot/image.jpg"  height="300">
 
 
 ## Getting Started
